@@ -15,6 +15,6 @@
 #### **You can check my .dotfiles repo if you want 👇**
   <div>
      <a href="https://github.com/scardenasb/.dotfiles">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=Nvim&theme=dracula"/>
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=.dotfiles&theme=dracula"/>
      </a>
   </div>
