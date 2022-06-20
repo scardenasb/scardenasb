@@ -12,9 +12,9 @@
 #### **My goals for this year 2022**
   > *The first one is to learn [Golang](https://www.go.dev) and some of its main frameworks; create a educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
   
-#### **You can checkout my nvim config repo if you want 👇**
+#### **You can check my .dotfiles repo if you want 👇**
   <div>
-     <a href="https://github.com/scardenasb/Nvim">
+     <a href="https://github.com/scardenasb/.dotfiles">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=Nvim&theme=dracula"/>
      </a>
   </div>
