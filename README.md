@@ -7,7 +7,7 @@
   > *I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves. I prefer minimalism and performance in almost everything that I work on, so I have been using [Neovim](https://www.github.com/neovim) since the past year to do almost everything related with coding.*
   
 #### **What do I do?**
-  > *I am currently working on my own projects related to web development, specifically the backend. Using [Python](https://www.python.org) and its environment like [Django](https://www.github.com/Django).*
+  > *I am currently working on my own projects related to web development, specifically the backend. Using [Python](https://www.python.org) and its environment like [Django](https://www.github.com/Django) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).*
   
 #### **My goals for this year 2022**
   > *The first one is to learn [Golang](https://www.go.dev) and some of its main frameworks; create a educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
