@@ -11,10 +11,22 @@
   
 #### **My goals for this year 2022**
   > *The first one is to learn [Golang](https://www.go.dev) and some of its main frameworks; create a educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
-  
-#### **You can check my .dotfiles repo if you want 👇**
+
+<br></br>
+
+---
+#### **You can check some of my repos too if you want. 👇**
+---
   <div>
      <a href="https://github.com/scardenasb/.dotfiles">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=.dotfiles&theme=dracula"/>
+     </a>
+     <a href="https://github.com/scardenasb/converter">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=converter&theme=dracula"/>
+     </a>
+   </div>
+   <div>
+     <a href="https://github.com/scardenasb/url-shortener">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=url-shortener&theme=dracula"/>
      </a>
   </div>
