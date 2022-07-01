@@ -3,7 +3,7 @@
    <a href="https://twitter.com/secardena">![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBadillaCardenas)</a>
    <a href="https://www.github.com/scardenasb">![Visitor](https://visitor-badge.laobi.icu/badge?page_id=scardenas.scardenasb)</a>
   
-#### **Hi there, it's a pleasure 👋**
+#### **Hi there 👋**
   > *I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves. I prefer minimalism and performance in almost everything that I work on, so I have been using [Neovim](https://www.github.com/neovim) since the past year to do almost everything related with coding.*
   
 #### **What do I do?**
