@@ -18,15 +18,18 @@
 #### **You can check some of my repos too if you want. 👇**
 ---
 <div>
-     <a href="https://github.com/scardenasb/web-scrapper-in">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=web-scrapper-in&theme=dracula"/>
-     </a>
-</div>
-<div>
      <a href="https://github.com/scardenasb/converter">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=converter&theme=dracula"/>
      </a>
      <a href="https://github.com/scardenasb/url-shortener">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=url-shortener&theme=dracula"/>
+     </a>
+</div>
+<div>
+     <a href="https://github.com/scardenasb/web-scrapper-in">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=web-scrapper-in&theme=dracula"/>
+     </a>
+     <a href="https://github.com/scardenasb/in-jobs-api">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=scardenasb&repo=in-jobs-api&theme=dracula"/>
      </a>
 </div>
