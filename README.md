@@ -10,7 +10,7 @@
   > *I am currently working on my own projects related to web development, specifically the backend. Using [Python](https://www.python.org) and its environment like [Django](https://www.github.com/Django) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).*
   
 #### **My goals for this year 2022**
-  > *The first one is to learn [Golang](https://www.go.dev) and some of its main frameworks; C# & .NET; create an educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
+  > *The first one is to learn [Golang](https://www.go.dev) and some of its main frameworks; [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) & [.NET](https://dotnet.microsoft.com/en-us/); create an educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
 
 <br></br>
 
