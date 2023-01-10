@@ -7,10 +7,10 @@
   > *I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves. I prefer minimalism and performance in almost everything that I work on related with coding.
   
 #### **What do I do?**
-  > *I am currently working on my own projects related to web development, specifically the backend. Using [Python](https://www.python.org) and its environment like [Django](https://www.github.com/Django) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).*
+  > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js) and using [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for personal projects.*
   
-#### **My goals for this year 2022**
-  > *The first one is to learn [C#](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) & [.NET](https://dotnet.microsoft.com/en-us/); [Golang](https://www.go.dev) and some of its main frameworks; create an educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
+#### **My goals for this year 2023**
+  > *The first one is to keep learning [Golang](https://www.go.dev) and some of its main frameworks; learn [React](https://reactjs.org/) and [AWS](https://aws.amazon.com/); create an educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
 
 <br></br>
 
