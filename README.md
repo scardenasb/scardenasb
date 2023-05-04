@@ -10,7 +10,7 @@
   > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js) and using [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) for personal projects.*
   
 #### **My goals for this year 2023**
-  > *The first one is to keep learning [Golang](https://www.go.dev) and some of its main frameworks; learn [React](https://reactjs.org/) and [AWS](https://aws.amazon.com/); create an educational small seismic related website; and go deeper with Python/Django, cloud computing and data manipulation.*
+  > *The first one is to keep learning [Golang](https://www.go.dev) and some of its main frameworks; learn [React](https://reactjs.org/) and [AWS](https://aws.amazon.com/); create an educational small seismic related website; and go deeper with Python/Django and cloud computing.*
 
 <br></br>
 
