@@ -1,6 +1,6 @@
    <a href="mailto:scardenasb@gmail.com">![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&style=social&url=https%3A%2F%2Fmailto%3Ascardenasb%40gmail.com)</a>
    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-c%C3%A1rdenas/">![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsebasti%25C3%25A1n-c%25C3%25A1rdenas%2F)</a>
-   <a href="https://twitter.com/secardena">![X](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBadillaCardenas)</a>
+   <a href="https://twitter.com/secardena">![X](https://img.shields.io/twitter/url?label=X&style=social&url=https%3A%2F%2Ftwitter.com%2FBadillaCardenas)</a>
    <a href="https://www.github.com/scardenasb">![Visitor](https://visitor-badge.laobi.icu/badge?page_id=scardenas.scardenasb)</a>
   
 #### **Hi there 👋**
