@@ -7,10 +7,10 @@
   > I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves. I prefer minimalism and performance in almost everything that I work on related with coding.
   
 #### **What do I do?**
-  > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js) and [Docker](https://docker.com).
+  > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js) and [Docker](https://docker.com).*
   
 #### **My goals for this year 2024**
-  > The first one is to keep learning [Golang](https://www.go.dev) and [Docker](https://www.docker.com/); certify in [AWS](https://aws.amazon.com/) and go deeper with Python/Django and cloud computing.*
+  > *The first one is to keep learning [Golang](https://www.go.dev) and [Docker](https://www.docker.com/); certify in [AWS](https://aws.amazon.com/) and go deeper with Python/Django and cloud computing.*
 
 <br></br>
 
