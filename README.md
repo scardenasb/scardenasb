@@ -4,7 +4,7 @@
    <a href="https://www.github.com/scardenasb">![Visitor](https://visitor-badge.laobi.icu/badge?page_id=scardenas.scardenasb)</a>
   
 #### **Hi there 👋**
-  > I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves. I prefer minimalism and performance in almost everything that I work on related with coding.
+  > *I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves. I prefer minimalism and performance in almost everything that I work on related with coding.*
   
 #### **What do I do?**
   > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js) and [Docker](https://docker.com).*
