@@ -18,7 +18,7 @@
 
 <br></br>
 
-#### **You can check some of my repos too if you want. 👇**
+#### **You can check some of my repos if you want. 👇**
 ---
 
 <!---
