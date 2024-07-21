@@ -13,6 +13,7 @@
   > - *Go deeper with [Golang](https://www.go.dev) and [templ](https://templ.guide/)*
   > - *Learn how to optimize GPU [Docker](https://www.docker.com/) containers in Python environments*
   > - *Start a PGDip in an AI-related field*
+  > - *Learn to use [Kubernetes](https://kubernetes.io/) instead of docker-compose*
   > - *Keep doing Python projects*
   > - *Get certified in [AWS](https://aws.amazon.com/) or [Azure](https://azure.microsoft.com/en-us/)*
 
