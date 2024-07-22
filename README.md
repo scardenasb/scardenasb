@@ -15,7 +15,6 @@
   > - *Start a PGDip in an AI-related field*
   > - *Learn to use [Kubernetes](https://kubernetes.io/) instead of docker-compose*
   > - *Keep doing Python projects*
-  > - *Get certified in [AWS](https://aws.amazon.com/) or [Azure](https://azure.microsoft.com/en-us/)*
 
 <br></br>
 
