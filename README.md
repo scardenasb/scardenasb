@@ -12,7 +12,7 @@
 #### **My goals for this year 2024**
   > - *Go deeper with [Golang](https://www.go.dev)*
   > - *Learn how to optimize GPU [Docker](https://www.docker.com/) containers in Python environments*
-  > - *Start a PGDip in AI field*
+  > - *Start a PGDip in AI*
   > - *Learn to use [Kubernetes](https://kubernetes.io/) instead of docker-compose*
   > - *Keep doing Python projects*
 
