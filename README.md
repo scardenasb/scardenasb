@@ -10,9 +10,9 @@
   > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js, etc) and [Docker](https://docker.com).*
   
 #### **My goals for this year 2024**
-  > - *Go deeper with [Golang](https://www.go.dev) and [templ](https://templ.guide/)*
+  > - *Go deeper with [Golang](https://www.go.dev)*
   > - *Learn how to optimize GPU [Docker](https://www.docker.com/) containers in Python environments*
-  > - *Start a PGDip in an AI-related field*
+  > - *Start a PGDip in AI field*
   > - *Learn to use [Kubernetes](https://kubernetes.io/) instead of docker-compose*
   > - *Keep doing Python projects*
 
