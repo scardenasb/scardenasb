@@ -9,7 +9,7 @@
 #### **What do I do?**
   > *Currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django),front-end technologies and [Docker](https://docker.com)*.
   > 
-  > *Studying a PGDip in AI focusing in DL*
+  > *Studying a PGDip in AI focused in DL*
   
 #### **My goals for this year 2024**
   > - *Go deeper with [Golang](https://www.go.dev)*
