@@ -7,14 +7,14 @@
   > *I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves.*
   
 #### **What do I do?**
-  > *I am currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django), front-end technologies (Html, Css, Js, etc), and [Docker](https://docker.com).*
-  > I am studying a PGDip in AI
+  > *Currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django),front-end technologies and [Docker](https://docker.com)*.
+  > 
+  > *Studying a PGDip in AI focusing in DL*
   
 #### **My goals for this year 2024**
   > - *Go deeper with [Golang](https://www.go.dev)*
-  > - *Start a PGDip in AI*
   > - *Learn to use [Kubernetes](https://kubernetes.io/) instead of docker/podman compose*
-  > - *Keep doing Python projects*
+  > - *Keep doing Python projects that incorporate ML models*
 
 <br></br>
 
