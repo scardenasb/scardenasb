@@ -11,10 +11,10 @@
   > 
   > *Studying a PGDip in AI focused in DL*
   
-#### **My goals for this year 2024**
+#### **My goals for this year 2025**
   > - *Go deeper with [Golang](https://www.go.dev)*
-  > - *Learn to use [Kubernetes](https://kubernetes.io/) instead of docker/podman compose*
-  > - *Keep doing Python projects that incorporate ML models*
+  > - *Finish my AI Dip*
+  > - *Continue working on Python/Go projects where I can incorporate or use ML models*
 
 <br></br>
 
