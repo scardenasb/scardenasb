@@ -4,17 +4,17 @@
    <a href="https://www.github.com/scardenasb">![Visitor](https://visitor-badge.laobi.icu/badge?page_id=scardenas.scardenasb)</a>
   
 #### **Hi there 👋**
-  > *I'm a Chilean grogrammer; civil engineer; and a big science, math, and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves.*
+  > *I'm a Chilean grogrammer; civil engineer; and a big science and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves.*
   
 #### **What do I do?**
-  > *Currently working as a full-stack developer using [Python](https://www.python.org), [Django](https://www.github.com/Django),front-end technologies and [Docker](https://docker.com)*.
-  > 
-  > *Studying a PGDip in AI focused in DL*
+  > *Recently I have finished a PGDip in AI focused in DL so I am implementing knowledge creating ML pipelines for personal projects.*
   
 #### **My goals for this year 2025**
   > - *Go deeper with [Golang](https://www.go.dev)*
-  > - *Finish my AI Dip*
-  > - *Continue working on Python/Go projects where I can incorporate or use ML models*
+  > - *Create personal projects with RoR and connect them to ML pipelines*
+  > - *Take AWS exams CLF-C02, AIF-C01 and probably also MLA-C01*
+  > - *Obtain at least 6.5 in IETLS*
+  > - *Obtain JPLT N5*
 
 <br></br>
 
