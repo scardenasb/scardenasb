@@ -14,7 +14,6 @@
   > - *Create personal projects with RoR and connect them to ML pipelines*
   > - *Take AWS exams CLF-C02, AIF-C01 and probably also MLA-C01*
   > - *Obtain at least 6.5 in IETLS*
-  > - *Obtain JPLT N5*
 
 <br></br>
 
