@@ -12,7 +12,7 @@
 #### **My goals for this year 2025**
   > - *Go deeper with [Golang](https://www.go.dev)*
   > - *Create personal projects with RoR and connect them to ML pipelines*
-  > - *Take AWS exams DVA-C02 and maybe start with GCP or continue with MLA-C01*
+  > - *Take cloud exams DVA-C02 and maybe start with GCP or continue with MLA-C01*
   > - *Obtain at least 6.5 in IETLS*
 
 <br></br>
