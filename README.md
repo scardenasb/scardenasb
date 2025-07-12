@@ -7,7 +7,7 @@
   > *I'm a Chilean grogrammer; civil engineer; and a big science and technology enthusiast. From a very young age I had more fun playing with the circuits of my toys than with the toys themselves.*
   
 #### **What do I do?**
-  > *Recently I have finished a PGDip in AI focused in DL so I am implementing knowledge creating ML pipelines for personal projects.*
+  > *Recently I have finished a PGDip in AI focused on DL, so I am implementing knowledge by creating ML pipelines for personal projects.*
   
 #### **My goals for this year 2025**
   > - *Go deeper with [Golang](https://www.go.dev)*
