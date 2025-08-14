@@ -11,6 +11,7 @@
   
 #### **My goals for this year 2025**
   > - *Go deeper with [Golang](https://www.go.dev)*
+  > - *Learn [C](https://www.c-language.org/)*
   > - *Create personal projects with .net and connect them to ML pipelines*
   > - *Take cloud exams DVA-C02 and maybe start with GCP or continue with MLA-C01*
 
